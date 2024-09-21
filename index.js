@@ -8,6 +8,6 @@ function getMyName (){
 
 const cass = "college"
 
-function isabove18(){
+function isabove18(age){
     return age >= 18
 }
