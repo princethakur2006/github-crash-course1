@@ -16,5 +16,6 @@ const age1 = 24;
 
 function newFeatureAdd(){
     console.log("new featur ADDED");
+    console.log("new featur ADDED 1");
     
 }
