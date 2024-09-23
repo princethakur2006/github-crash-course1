@@ -19,3 +19,8 @@ function newFeatureAdd(){
     console.log("new featur ADDED 1");
     
 }
+function newFeatureAdd2(){
+    console.log("new featur ADDED");
+    console.log("new featur ADDED 2");
+    
+}
